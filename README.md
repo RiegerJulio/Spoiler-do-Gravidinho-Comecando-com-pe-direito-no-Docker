@@ -29,8 +29,10 @@ Um belo dia um nerdão cansou de ter que ficar usando <strong>máquinas virtuais
 Isso está ficando mais complicado do que você imaginava? Relaxa, imagem é algo simples.
 Supondo que sua aplicação roda no ubuntu versão 20.0. Existe um site chamado <strong>DockerHub*</strong> (uma espécie de instagram de imagens) e lá, você vai falar “eu quero a imagem do ubuntu 20.0 você tem aí?" e lá você vai achar ela e vai utilizar-la para inseminar o seu bebê. Você pode também usar um arquivo chamado <strong>Dockerfile</strong> que é simplesmente a versão ‘receita de bolo’ do seu container dando toda e qualquer instrução nele. Fica bem fácil de entender com a img abaixo
 
-<p text-align="center">
-          <img src="">
+<strong>*Site do DockerHub > https://hub.docker.com/</strong>
+
+<p align="center">
+          <img align="center" src="https://github.com/RiegerJulio/Spoiler-do-Gravidinho-Comecando-com-pe-direito-no-Docker/blob/main/images/dockerfile_example.png?raw=true">
 </p>
 
 Nesse caso a receita de bolo funciona assim: 
@@ -48,8 +50,8 @@ koe, instala o node pra mim e entra no diretório X. Depois tu adiciona esse arq
 
 Boa pergunta. Quando você estiver configurando o container, basicamente você vai apontar que a imagem utilizada é a X (onde x é esse comando levemente marcado na imagem abaixo). Então o conjunto de imagens fará com que seu container esteja pronto para ser utilizado em outra máquina.
 
-<p text-align="center">
-          <img src="">
+<p align="center">
+          <img align="center" src="https://github.com/RiegerJulio/Spoiler-do-Gravidinho-Comecando-com-pe-direito-no-Docker/blob/main/images/dockerHub.png?raw=true">
 </p>
 
 
@@ -57,8 +59,8 @@ Boa pergunta. Quando você estiver configurando o container, basicamente você v
 
 Então gravidinhos, o intuito deste artigo não é me concentrar na parte prática pois estou mais desconstruindo a teoria por trás do docker ok? Porém, alimento vocês com os links abaixo que utilizei para reforçar meus estudos e para entender um pouco mais sobre como o docker funciona e todos eles em português. Alguns são mais curtos e outros mais completos, mas sugiro também que vocês procurem mais conteúdo por fora pois é um assunto muito extenso e nem todos os assuntos serão cobertos durante o curso ou esses vídeos. Além disso, essa imagem abaixo é um grande "esqueceu de algo ou de algum comando? da uma olhada aqui ou no último link"
 
-<p text-align="center">
-          <img src="">
+<p align="center">
+          <img align="center" src="https://github.com/RiegerJulio/Spoiler-do-Gravidinho-Comecando-com-pe-direito-no-Docker/blob/main/images/docker-cheatSheet.png?raw=true">
 </p>
 
 <strong>Mateus Muller - TUDO O QUE VOCÊ PRECISA SABER PARA COMEÇAR COM DOCKER</strong>
